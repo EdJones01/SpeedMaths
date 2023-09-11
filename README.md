@@ -18,3 +18,9 @@ There are a multitude of things you can change in order to make equations to you
 - You can turn the **sound** for the game on and off.
 
 > **Note:** Each high score is saved depending on the configuration specified e.g. If you set a high score with 10 questions and then do the same game but with 5 questions they will have different high scores.
+
+# Gameplay demo
+![](game_demo.gif)
+
+# Settings and high score
+![](settings_demo.gif)
